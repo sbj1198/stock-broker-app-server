@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sbj1198/stock-broker-app-server/issues"
   },
-  "homepage": "https://github.com/sbj1198/stock-broker-app-server#readme"
+  "homepage": "https://github.com/sbj1198/stock-broker-app-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
 }
